@@ -408,7 +408,7 @@ footer .symbol {
     }
 
     .gallery {
-        
+        flex-direction: column;
     }
 
     footer {
